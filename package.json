@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "name": "portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -p 8436"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darioe/portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darioe/portfolio/issues"
+  },
+  "homepage": "https://github.com/Darioe/portfolio#readme",
+  "description": ""
+}
