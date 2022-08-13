@@ -1,0 +1,73 @@
+{
+	"name": "Nombre y apellido",
+    "fotoDePerfil": "https://cdn.discordapp.com/attachments/657771703618895892/1005226788546420816/fotoperfil.png",
+	"banner": "https://cdn.discordapp.com/attachments/657771703618895892/1005183185795158036/banner.png",
+	"titulo": "Full Stack Developer Jr.",
+	"acercaDe": "Experiencia informacion resumida que se yo muchas cosas asdasasdsdadsasad jksaddjadkajdewnjfejkdfsnjsdnjkdsanajsknaddnandasadnnads",
+
+	"experiencia": [{
+			"puesto": "Titulo del puesto",
+			"descripcionPuesto": "resumen de lo que hacias en el puesto",
+			"periodoPuesto": "periodo",
+			"logoEmpresa": "https://cdn.discordapp.com/attachments/657771703618895892/1005570967424204882/logoempresa.jpg"
+		},
+
+		{
+			"puesto": "Titulo del puesto2",
+			"descripcionPuesto": "resumen de lo que hacias en el puesto2",
+			"periodoPuesto": "periodo2",
+			"logoEmpresa": "https://cdn.discordapp.com/attachments/657771703618895892/1005570967424204882/logoempresa.jpg"
+		},
+
+		{
+			"puesto": "Titulo del puesto3",
+			"descripcionPuesto": "resumen de lo que hacias en el puesto3",
+			"periodoPuesto": "periodo3",
+			"logoEmpresa": "https://cdn.discordapp.com/attachments/657771703618895892/1005570967424204882/logoempresa.jpg"
+		}
+	],
+
+	"educacion": [{
+			"nombreInstitucion": "nombre institucion",
+			"nombreCarrera": "nombre del curso certificacion etc estudiado",
+			"periodoCarrera": "periodo",
+			"logoInstitucion": "https://cdn.discordapp.com/attachments/657771703618895892/1005580183841021962/logoinstitucion.jpg"
+		},
+		{
+			"nombreInstitucion": "nombre institucion2",
+			"nombreCarrera": "nombre del curso certificacion etc estudiado2",
+			"periodoCarrera": "periodo2",
+			"logoInstitucion": "https://cdn.discordapp.com/attachments/657771703618895892/1005580183841021962/logoinstitucion.jpg"
+		},
+		{
+			"nombreInstitucion": "nombre institucion3",
+			"nombreCarrera": "nombre del curso certificacion etc estudiado3",
+			"periodoCarrera": "periodo3",
+			"logoInstitucion": "https://cdn.discordapp.com/attachments/657771703618895892/1005580183841021962/logoinstitucion.jpg"
+		}
+	],
+
+	"skills": [{
+			"skillName": "avilidad",
+			"porcentajeSkill": "75"
+		},
+		{
+			"skillName": "avilidad2",
+			"porcentajeSkill": "20"
+		}
+	],
+
+	"proyectos": [{
+			"nombreProyecto": "Nombre de proyecto",
+			"descProyecto": "Descripcion del proyecto",
+			"fechaProyecto": "fecha de realizacion",
+			"imagenProyecto": "imagen o link no se bien"
+		},
+		{
+			"nombreProyecto": "Nombre de proyecto2",
+			"descProyecto": "Descripcion del proyecto2",
+			"fechaProyecto": "fecha de realizacion2",
+			"imagenProyecto": "imagen o link no se bien2"
+		}
+	]
+}

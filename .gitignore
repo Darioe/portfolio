@@ -1,0 +1,20 @@
+
+node_modules
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+testem.log
+/typings
+
+
+portfolio-FrontEnd\proyectoAngular\node_modules
+portfolio-FrontEnd\proyectoAngular\.vscode

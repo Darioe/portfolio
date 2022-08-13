@@ -1,0 +1,22 @@
+<section>
+    <h1 class="container" style="width: 400px;">Educación</h1>
+    
+    <div class=container>
+     <article  *ngFor="let educacion of educacionList">
+        <div class="row columna">
+    
+            <div class="col-sm-2">
+                <img class="logo-institucion" [src]="educacion.logoInstitucion" alt="logo de empresa 1">
+            </div>
+            <div class="col">
+            <h3>{{educacion.nombreInstitucion}}</h3>
+            <h2>{{educacion.nombreCarrera}}</h2>
+                <h2>{{educacion.periodoCarrera}}</h2>
+            </div>
+        </div>
+     </article>
+    
+    
+    </div>
+    
+</section>

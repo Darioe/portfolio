@@ -1,0 +1,18 @@
+
+<section>
+    <h1 class="container"style="width: 400px;">Proyectos</h1>
+
+    <div class=container>
+        <article *ngFor="let proyecto of proyectosList">
+            <h3>{{proyecto.nombreProyecto}}</h3>
+            <h2>{{proyecto.descProyecto}}</h2>
+            <h2>{{proyecto.fechaProyecto}}</h2>
+            <h2 class="mb-5">{{proyecto.imagenProyecto}}</h2>
+
+        </article>
+
+    </div>
+
+
+</section>
+

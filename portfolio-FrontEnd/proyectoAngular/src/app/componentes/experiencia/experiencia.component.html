@@ -1,0 +1,21 @@
+<section>
+
+    <h1 class="container" style="width: 400px;">Experiencia</h1>
+    <div class=container>
+      <article  *ngFor="let experienciaLaboral of experienciaLaboralList">
+       <div class="row columna">
+         <div class="col-sm-2">
+            <img class="logo-institucion" [src]="experienciaLaboral.logoEmpresa">
+          </div>
+         <div class="col">
+           <h3>{{experienciaLaboral.puesto}}</h3>
+            <p>{{experienciaLaboral.descripcionPuesto}}</p>
+            <p>{{experienciaLaboral.periodoPuesto}}</p>
+         </div>
+       </div>
+      </article>
+    
+
+    </div>
+ </section>
+    
